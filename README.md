@@ -1,3 +1,6 @@
+# Project-Weekly-Calendar-App
+The Calendar App steps into modern Vue tooling with Single-File Components (.vue) and an architectural pattern for managing state across sibling and deeply nested components.
+
 # my-vue-app
 
 This template should help get you started developing with Vue 3 in Vite.
